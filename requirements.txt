@@ -1,0 +1,7 @@
+requests
+lxml
+selenium
+aiohttp
+aiofiles
+numpy
+click
